@@ -2,7 +2,7 @@
 
 
 
-<h2>💻 My Tech Stack</h2>
+## 💻 My Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=ffffff)
@@ -15,7 +15,7 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff)
 
 
-<h2>🔗 Contact</h2>
+## 🔗 Contact
 - **이메일**: [blackhole337@naver.com](mailto:blackhole337@naver.com)
 - **GitHub**: <a href="https://github.com/hyunhod">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
