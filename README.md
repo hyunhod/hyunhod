@@ -39,7 +39,7 @@
 
 ### 🔗 연락처
 - **이메일**: [blackhole337@naver.com](mailto:blackhole337@naver.com)
-- **GitHub**: <a href="[https://github.com/kimphysicsman](https://github.com/hyunhod)">
+- **GitHub**: <a href="https://github.com/hyunhod">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
   </a>
 
