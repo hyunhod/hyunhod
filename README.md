@@ -5,7 +5,7 @@
 
 # 📝Projects
 ## 1. TalkBoard
-[프로젝트 상세 설명](https://github.com/kimphysicsman/MyLittelTrip_backend) 
+[프로젝트 상세 설명](https://github.com/hyunhod/board) 
 
 
 - **배달 시스템**: 실시간 데이터 업데이트와 사용자 친화적인 인터페이스를 갖춘 배달 경로 최적화 프로젝트.
