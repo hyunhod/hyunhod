@@ -38,9 +38,11 @@
 
 
 ### 🔗 연락처
-- **이메일**: [blackhole337l@naver.com](mailto:blackhole337@naver.com)
-- **LinkedIn**: [링크드인 프로필](https://linkedin.com)
-- **GitHub**: [GitHub 프로필](https://github.com/your-profile)
+- **이메일**: [blackhole337@naver.com](mailto:blackhole337@naver.com)
+- **GitHub**: <a href="[https://github.com/kimphysicsman](https://github.com/hyunhod)">
+  <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
+  </a>
+
 
 
 ![Profile Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontAlign=15&fontAlignY=60&fontSize=20&fontColor=ffffff&background=linear-gradient(to%20right,%20#6A0D91,%20#A020F0))
