@@ -1,4 +1,4 @@
-![Profile Top Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Hyunho%20Na&fontAlign=15&fontAlignY=34&fontSize=40&fontColor=ffffff&desc=안녕하세요%20웹개발자를%20꿈꾸는%20나현호입니다.&descAlign=26&descAlignY=50&background=linear-gradient(to%20right,%20#6A0D91,%20#A020F0))
+![Profile Top Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Hyunho%20Na&fontAlign=15&fontAlignY=34&fontSize=40&fontColor=ffffff&descAlign=26&descAlignY=50&background=linear-gradient(to%20right,%20#6A0D91,%20#A020F0))
 
 
 ## 💻 My Tech Stack
